@@ -1,2 +1,2 @@
 # TSNE_cluster_visualization
- TSNE yöntemi ile kümelendirme algoriitmasını görselleştirme
+ TSNE yöntemi ile kümelendirme algoritmasını görselleştirme
